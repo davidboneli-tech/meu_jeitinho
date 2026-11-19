@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.4 — build 137 — 19/11/2026
+
+- Novo ícone oficial escolhido pelo responsável, com o rosto e o cabelo completamente dentro da área segura do launcher.
+- Aviso opcional às 9h do dia anterior à previsão da próxima menstruação.
+- Opção para ligar ou desligar o aviso nas configurações.
+- Reagendamento automático quando a previsão muda.
+- Restauração do agendamento após reiniciar o aparelho.
+- Mantidos os lembretes de cuidado durante o ciclo em andamento.
+- APK e projeto-fonte compilados e validados pelo GitHub Actions.
+- Portfólio e memorial atualizados para refletir o build 137.
+
 ## 1.0.4 — build 136 — 19/11/2026
 
 - Consolidação da versão 1.0.4 como base oficial do aplicativo.
