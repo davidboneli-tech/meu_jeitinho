@@ -8,7 +8,7 @@
 
 **🌷 Android &nbsp; · &nbsp; 📴 Offline &nbsp; · &nbsp; 📅 Calendário &nbsp; · &nbsp; 💗 Diário pessoal**
 
-<sub>Portfólio do aplicativo · Versão documentada: 1.0.4 · build 137</sub>
+<sub>Portfólio do aplicativo · Versão documentada: 1.0.4 · build 138</sub>
 
 </div>
 
@@ -40,7 +40,7 @@ O aviso da próxima previsão é **opcional**. Quando ativado, o aplicativo agen
 
 ## 🎀 Feito para ser leve
 
-O visual da versão 1.0.4 usa cores suaves, cartões com volume discreto, títulos com sombra leve e avatares de corpo inteiro. O ícone oficial também foi redesenhado para preservar o rosto, o cabelo e uma margem segura nos launchers Android. Os oito sentimentos possuem identidade visual consistente e animações locais; ao selecionar um sentimento, a animação é reproduzida uma vez e pode ser repetida por interação. A navegação reúne calendário, histórico, diário, ano em pixels e configurações.
+O visual da versão 1.0.4 usa cores suaves, cartões com volume discreto, títulos com sombra leve e avatares de corpo inteiro. Na build 138, as imagens dos sentimentos ganharam um pouco mais de destaque, rótulos como “Muito feliz” e “Com cólica” passaram a aparecer completos, e o encerramento das animações foi corrigido para não sobrepor miniaturas. O diário também passou a inserir stickers exatamente na posição do cursor. O ícone oficial recebeu uma margem de segurança maior para evitar cortes em launchers Android.
 
 <div align="center">
 
@@ -67,7 +67,7 @@ O PIN ajuda a controlar o acesso pela interface, mas não deve ser entendido com
 | Notificações Android | Lembretes locais de cuidado e aviso opcional um dia antes da previsão |
 | Gradle | Organização e compilação do projeto Android |
 
-**Base atual:** Meu Jeitinho **1.0.4**, build **137**, `minSdk 26` (Android 8.0) e `targetSdk 36`. A compilação foi validada por GitHub Actions em 19/11/2026. Isso confirma o build do projeto, mas não substitui validação completa em aparelho físico.
+**Base atual:** Meu Jeitinho **1.0.4**, build **138**, `minSdk 26` (Android 8.0) e `targetSdk 36`. A compilação foi validada com sucesso pelo GitHub Actions em 19/11/2026. A partir desta build, o projeto também passou a manter uma chave privada de assinatura persistente para futuras atualizações do APK.
 
 ## 👨‍👧 Concepção
 
