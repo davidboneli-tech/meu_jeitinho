@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.0.4 — build 138 — 19/11/2026
+
+- Stickers do diário agora são inseridos na posição atual do cursor.
+- Avatares dos sentimentos ampliados discretamente sem alterar a grade existente.
+- Rótulos dos sentimentos aceitam duas linhas, corrigindo “Muito feliz” e “Com cólica”.
+- Corrigida a sobreposição de miniatura ao término das animações dos sentimentos.
+- Ícone oficial com margem de segurança maior para evitar corte do rosto e do cabelo.
+- Barras superior e inferior do sistema ajustadas para integração visual edge-to-edge.
+- Criada assinatura privada persistente do Meu Jeitinho para as próximas atualizações.
+- APK e projeto-fonte compilados e validados com sucesso pelo GitHub Actions.
+
 ## 1.0.4 — build 137 — 19/11/2026
 
 - Novo ícone oficial escolhido pelo responsável, com o rosto e o cabelo completamente dentro da área segura do launcher.
@@ -25,6 +36,6 @@
 
 ## Histórico anterior
 
-As versões 1.0.0 a 1.0.3 representam etapas de construção, correções de mídia, identidade visual e funções locais. A versão 1.0.4 build 136 é a referência atual do portfólio.
+As versões 1.0.0 a 1.0.3 representam etapas de construção, correções de mídia, identidade visual e funções locais. A versão 1.0.4 build 138 é a referência atual do portfólio.
 
 > Este repositório é somente de apresentação. Código-fonte, APK e dados pessoais permanecem reservados.
