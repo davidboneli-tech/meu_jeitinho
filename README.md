@@ -6,7 +6,7 @@
 
 **🌷 Android &nbsp; · &nbsp; 📴 Offline &nbsp; · &nbsp; 📅 Calendário &nbsp; · &nbsp; 💗 Diário pessoal**
 
-<sub>Portfólio do aplicativo · Versão documentada: 1.4.0 (V11)</sub>
+<sub>Portfólio do aplicativo · Versão documentada: 1.0.4 · build 136</sub>
 
 </div>
 
@@ -27,17 +27,17 @@ Daí nasceu um espaço para registrar datas, sentimentos e pequenas anotações 
 | 📅 Calendário | Acompanhar os dias registrados e consultar o ciclo |
 | 🌷 Histórico | Rever datas de início e término dos ciclos |
 | 💭 Sentimentos e mini diário | Guardar como foi o dia e escrever pequenas anotações |
-| 🔔 Lembrete opcional | Avisar um dia antes da próxima data prevista, às 9h, quando houver previsão e permissão de notificações |
+| 🔔 Lembretes de cuidado | Durante um ciclo em andamento, o app pode exibir lembretes locais de cuidado, conforme as permissões e configurações do aparelho |
 | 💾 Backup local | Exportar e restaurar os dados por meio de um arquivo escolhido no celular |
 | 🔐 PIN e código dos responsáveis | Controlar o acesso ao aplicativo e oferecer recuperação do PIN |
 | 🎨 Temas suaves | Escolher entre rosa, lavanda, pêssego e menta |
 | 📴 Uso offline | Consultar e registrar informações sem uma conta ou conexão com a internet |
 
-O lembrete usa uma **estimativa baseada nos ciclos registrados**. A data pode variar; ela não é uma certeza nem substitui orientação de um profissional de saúde.
+**Ainda não foi implementado** o aviso automático de um dia antes da previsão da próxima menstruação. Essa função permanece planejada para uma etapa posterior. As previsões exibidas pelo app são estimativas e não substituem orientação de um profissional de saúde.
 
 ## 🎀 Feito para ser leve
 
-O visual usa cores suaves, ilustrações da Laurinha e uma abertura breve. A navegação reúne calendário, histórico, registros do dia e configurações. O aplicativo foi pensado como um cantinho pessoal, sem transformar uma etapa natural da vida em algo complicado.
+O visual da versão 1.0.4 usa cores suaves, cartões com volume discreto, títulos com sombra leve e avatares de corpo inteiro. Os oito sentimentos possuem identidade visual consistente e animações locais; ao selecionar um sentimento, a animação é reproduzida uma vez e pode ser repetida por interação. A navegação reúne calendário, histórico, diário, ano em pixels e configurações.
 
 <div align="center">
 
@@ -61,10 +61,10 @@ O PIN ajuda a controlar o acesso pela interface, mas não deve ser entendido com
 | Material 3 | Componentes e temas da interface |
 | Room | Armazenamento local dos ciclos e registros diários |
 | DataStore | Preferências, PIN e configurações |
-| Notificações Android | Lembrete opcional do próximo ciclo |
+| Notificações Android | Lembretes locais de cuidado durante o ciclo em andamento |
 | Gradle | Organização e compilação do projeto Android |
 
-**Base consultada:** projeto V11, com versão interna **1.4.0**, `minSdk 26` (Android 8.0) e `targetSdk 36`. A descrição acima foi conferida no projeto; esta publicação não afirma teste em todos os aparelhos ou revisão clínica da previsão.
+**Base atual:** Meu Jeitinho **1.0.4**, build **136**, `minSdk 26` (Android 8.0) e `targetSdk 36`. A compilação foi validada por GitHub Actions em 19/11/2026. Isso confirma o build do projeto, mas não substitui validação completa em aparelho físico.
 
 ## 👨‍👧 Concepção
 
