@@ -1,6 +1,6 @@
 # Privacidade e limites 🌷
 
-O Meu Jeitinho foi criado para uso pessoal e offline. A versão 1.0.4 build 137 documentada guarda ciclos e registros diários em armazenamento local do aplicativo e oferece exportação manual para um arquivo JSON escolhido no dispositivo.
+O Meu Jeitinho foi criado para uso pessoal e offline. A versão 1.0.4 build 138 documentada guarda ciclos e registros diários em armazenamento local do aplicativo e oferece exportação manual para um arquivo JSON escolhido no dispositivo.
 
 ## Ao criar ou restaurar um backup
 
@@ -11,7 +11,7 @@ O Meu Jeitinho foi criado para uso pessoal e offline. A versão 1.0.4 build 137 
 
 ## Acesso e lembrete
 
-O PIN protege a entrada pela interface e oferece mecanismos de bloqueio e recuperação. Ele não deve ser tratado como proteção criptográfica do banco de dados ou do backup. Os lembretes locais de cuidado são opcionais e dependem das permissões e do comportamento de notificações do aparelho. A versão 1.0.4 build 137 também oferece um aviso opcional às 9h do dia anterior à previsão da próxima menstruação, quando existe uma data calculada. O agendamento é recalculado se a previsão mudar e pode ser restaurado após reiniciar o aparelho.
+O PIN protege a entrada pela interface e oferece mecanismos de bloqueio e recuperação. Ele não deve ser tratado como proteção criptográfica do banco de dados ou do backup. Os lembretes locais de cuidado são opcionais e dependem das permissões e do comportamento de notificações do aparelho. A versão 1.0.4 build 138 também oferece um aviso opcional às 9h do dia anterior à previsão da próxima menstruação, quando existe uma data calculada. O agendamento é recalculado se a previsão mudar e pode ser restaurado após reiniciar o aparelho.
 
 Uma previsão de ciclo é apenas uma estimativa. O aplicativo não oferece diagnóstico nem substitui acompanhamento de saúde.
 
